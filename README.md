@@ -1,4 +1,6 @@
-<div align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Welcome"/>
+</p> 
 
 # 👋 Hello
 
@@ -32,7 +34,10 @@ Interested in AI, Hardware and Virtualization
 Python
 Git / GitHub
 System & Hardware
+```
+## 📈 GitHub Stats
 
+![stats](https://github-readme-stats.vercel.app/api?username=hoolego&show_icons=true)
 ---
 
 ## 📈 GitHub Stats
