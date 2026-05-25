@@ -32,6 +32,9 @@ Interested in AI, Hardware and Virtualization
 Python
 Git / GitHub
 System & Hardware
+
+---
+
 ## 📈 GitHub Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true)
